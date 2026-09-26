@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jonghyeok 👋
 
-<!--
-**lee-jonghyeok/lee-jonghyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics Engineering graduate interested in autonomous and field robotics.
 
-Here are some ideas to get you started:
+## Interests
+- Autonomous Mobile Robots
+- ROS 2
+- Computer Vision
+- SLAM & Navigation
+- Sensor Fusion
+- Field & Rescue Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Python
+- C++
+- Linux
+- Git / GitHub
+- ROS 2
+
+## Goal
+I'm preparing for a career in robotics R&D, with a long-term interest in autonomous robots for disaster and field environments.
